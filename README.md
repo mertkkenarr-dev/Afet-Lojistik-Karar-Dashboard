@@ -1,0 +1,1 @@
+# Afet-Lojistik-Karar-Dashboard
